@@ -1,7 +1,7 @@
 <!-- Texte en rouge, uppercase, style code -->
-<p align="center">
-  <img src="https://img.shields.io/badge/HI%20I'M%20KEVIN,%20NICE%20TO%20MEET%20YOU-RED?style=for-the-badge&logo=github" alt="Hi I'm Kevin"/>
-</p>
+<h1 align="center">
+  <code><span style="color:red;">HI I'M KEVIN, NICE TO MEET YOU :)</span></code>
+</h1>
 
 <!-- Logos centrés avec plus d'espacement -->
 <p align="center">
