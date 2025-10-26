@@ -1,11 +1,6 @@
 <!-- Texte animé via GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Hi I'm Kevin, nice to meet you :)" width="400"/>
-</p>
-
-<!-- Meme à droite -->
-<p align="right">
-  <img src="https://i.imgflip.com/7y2b7b.jpg" alt="Hello Meme" width="200"/>
+  <img src="https://c.tenor.com/X_g9_yh5I-IAAAAC/hi-hello.gif" alt="Hi I'm Kevin, nice to meet you :)" width="400"/>
 </p>
 
 <!-- Logos centrés avec bonne taille et espacement -->
