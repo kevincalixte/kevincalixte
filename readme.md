@@ -1,9 +1,3 @@
-![Coder](https://img.shields.io/badge/Coder-FF0000?style=for-the-badge&logoColor=white)
-![Apprendre](https://img.shields.io/badge/Apprendre-FF7F00?style=for-the-badge&logoColor=white)
-![Progresser](https://img.shields.io/badge/Progresser-FFFF00?style=for-the-badge&logoColor=white)
-![Créer](https://img.shields.io/badge/Créer-00FF00?style=for-the-badge&logoColor=white)
-![😄](https://img.shields.io/badge/%F0%9F%98%84-FF69B4?style=for-the-badge&logoColor=white)
-
 ## 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
